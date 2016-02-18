@@ -1,0 +1,28 @@
+name: adelineseidel
+favicon: null
+layout_spectrum: 0.6725372825749218
+typography_spectrum: 0.2352111383806914
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9783877157606184
+  lightness: 0.9721816312521696
+  saturation: 0.6980875204317272
+  rhythmicContrast: 0.18348804744891822
+purpose: []

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[adelineseidel]]></title>
+        <description><![CDATA[adelineseidel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Apr 2016 09:38:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Generalist - Magazine for Architecture]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e3d5928-8d5a-4228-92d3-e7f35886ac83.jpg">]]></description>
+            <link>undefinedgeneralist-magazine-for-architecture/index.html</link>
+            <guid isPermaLink="false">d9a4851a-9a6d-421c-8211-a6539b2bb10f</guid>
+            <pubDate>Mon, 25 Apr 2016 09:38:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
